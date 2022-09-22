@@ -1,1 +1,1 @@
-pwd
+learn shell
