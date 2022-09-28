@@ -1,1 +1,2 @@
 #!/bin/bash
+if id -u "user" then | echo 'hello user'
