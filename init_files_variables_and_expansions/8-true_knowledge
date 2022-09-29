@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((128 + VALUEexportTRUEKNOWLEDGE))
+echo $((TRUEKNOWLEDGE + 128)) 
