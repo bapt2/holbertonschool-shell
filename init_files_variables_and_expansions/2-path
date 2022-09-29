@@ -1,2 +1,2 @@
 #!/bin/bash
-alias  PATH='cd :/action'
+alias  PATH='cd /bin:/action'
