@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | alias -p $PATH='/action'
+echo $PATH | alias -p $PATH='cd /action'
