@@ -1,2 +1,2 @@
 #!/bin/bash
-alias -p $PATH='cd /bin:/action'
+$ echo $PATH
