@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr " " "\n" | grep -h "379"
+echo {a..z}{a..z} | tr " " "\n" | grep -v "379"
